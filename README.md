@@ -20,14 +20,6 @@ Spire.PDF for C++ offers the facility to merge/split PDF documents and overlay d
 
 Spire.PDF for C++ can protect PDF documents by setting passwords. User password and owner password can determine the encrypted PDF documents readability, modifiability, printability and other selective restrictions.
 
-### Extract Data from PDF Documents
-
-Spire.PDF for C++ can be used to extract images, text, pages and attachments from a PDF document with great speed and accuracy.
-
-### Document Settings Features
-
-Document information can be set with Spire.PDF for C++ including custom metadata, document properties, page orientation, and page size. Wherein, document properties consist of document restrictions (printing, document assembly, page extraction, comment etc. allowed or not) and document description about file title, author, subject, keywords and so on. By using Spire.PDF for C++, viewer preferences can be set with position, title display, resize, page mode and print scaling etc.
-
 ### Examples
 
 ### Add Layers to PDF
