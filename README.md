@@ -2,7 +2,7 @@
 
 [![Foo](https://i.imgur.com/9oTrtOu.png)](https://www.e-iceblue.com/Introduce/pdf-for-CPP.html)
 
-[Product Page](https://www.e-iceblue.com/Introduce/pdf-for-CPP.html)  |  [Forum](https://www.e-iceblue.com/forum/spire-xls-f4.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
+[Product Page](https://www.e-iceblue.com/Introduce/pdf-for-CPP.html)  |  [Forum](https://www.e-iceblue.com/forum/spire-pdf-f7.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
 
 [Spire.PDF for C++](https://www.e-iceblue.com/Introduce/pdf-for-CPP.html) is a professional **C++ PDF API** applied to creating, writing, editing, handling and reading PDF files without any external dependencies within C++ application.
 
@@ -165,3 +165,5 @@ int main(){
 	delete doc;
 }
 ```
+
+[Product Page](https://www.e-iceblue.com/Introduce/pdf-for-CPP.html)  |  [Forum](https://www.e-iceblue.com/forum/spire-pdf-f7.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
