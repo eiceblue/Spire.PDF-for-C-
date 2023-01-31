@@ -16,7 +16,7 @@ Spire.PDF for C++ supports converting HTML, XPS, Text and Image to PDF and conve
 
 Spire.PDF for C++ offers the facility to merge/split PDF documents and overlay documents. Meanwhile, Spire.PDF for C++ can provide import and stamp feature, booklet feature and form filling which can help users read value from form fields and populate a database.
 
-### Security features
+### Security Features
 
 Spire.PDF for C++ can protect PDF documents by setting passwords. User password and owner password can determine the encrypted PDF documents readability, modifiability, printability and other selective restrictions.
 
