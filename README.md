@@ -32,7 +32,7 @@ Document information can be set with Spire.PDF for C++ including custom metadata
 
 ### Add Layers to PDF
 
-```C
+```C++
 #include "pch.h"
 using namespace Spire::Pdf;
 using namespace std;
