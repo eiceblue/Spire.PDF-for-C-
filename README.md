@@ -8,11 +8,11 @@
 
 Many rich features can be supported by the C++ PDF API, such as creating PDF Portfolio, PDF text/attachment/image extract, PDF merge/split, metadata update, section, graph/image drawing and inserting, PDF conversion, data importing, etc. Besides, Spire.PDF for C++ can be applied to easily converting Text, Image, SVG, HTML to PDF and converting PDF to Excel with C++ in high quality.
 
-### High Fidelity PDF file Conversion
+### High Fidelity PDF File Conversion
 
 Spire.PDF for C++ supports converting HTML, XPS, Text and Image to PDF and converting PDF to Excel with efficient performance. Developers can transform PDF to Word, XPS, SVG, EMF, JPG, PNG, BMP, TIFF, HTML, PostScript, PCL (Printer Command Language), Text format. Furthermore, along with Spire.Doc for C++ and Spire.XLS for C++, developers can convert Word (Doc/Docx), Excel (Xls/Xlsx) and XML to PDF.
 
-### Easily Manipulate document and Form fields
+### Easily Manipulate Document and Form Fields
 
 Spire.PDF for C++ offers the facility to merge/split PDF documents and overlay documents. Meanwhile, Spire.PDF for C++ can provide import and stamp feature, booklet feature and form filling which can help users read value from form fields and populate a database.
 
@@ -20,11 +20,11 @@ Spire.PDF for C++ offers the facility to merge/split PDF documents and overlay d
 
 Spire.PDF for C++ can protect PDF documents by setting passwords. User password and owner password can determine the encrypted PDF documents readability, modifiability, printability and other selective restrictions.
 
-### Extract data from Pdf documents
+### Extract Data from PDF Documents
 
 Spire.PDF for C++ can be used to extract images, text, pages and attachments from a PDF document with great speed and accuracy.
 
-### Document Settings features
+### Document Settings Features
 
 Document information can be set with Spire.PDF for C++ including custom metadata, document properties, page orientation, and page size. Wherein, document properties consist of document restrictions (printing, document assembly, page extraction, comment etc. allowed or not) and document description about file title, author, subject, keywords and so on. By using Spire.PDF for C++, viewer preferences can be set with position, title display, resize, page mode and print scaling etc.
 
