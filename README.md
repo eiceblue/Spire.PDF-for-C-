@@ -133,24 +133,27 @@ int main(){
 }
 ```
 
-### Convert PDF to PNG
+### Convert PDF to Images
 
 ```C++
 #include "pch.h"
 using namespace Spire::Pdf;
 using namespace std;
+
 int main(){
 	//Input and output files path
-	wstring outputFile =OUTPUTPATH+L"ToTransparentBackgroundImages.png";
-	wstring inputFile =DATAPATH+L"ToTransparentBackgroundImages.pdf";
-	 //Load a PDF document
+	wstring outputFile = OUTPUTPATH+L"ToImage\\";
+	wstring inputFile = DATAPATH+L"ToImage.pdf";
+	//Create a new PDF document.
 	PdfDocument* doc = new PdfDocument();
 	doc->LoadFromFile(inputFile.c_str());
-	doc->GetConvertOptions()->SetPdfToImageOptions(0);
-	//Convert Pdf to image
-	Stream* image = doc->SaveAsImage(0, PdfImageType::Bitmap);
-	//Write image to file
-	image->Save(outputFile.c_str());
+	//Save to images
+	for (int i = 0; i < doc->GetPages()->GetCount(); i++) {
+		Stream* image = doc->SaveAsImage(i);
+		wstring fileName = outputFile + to_wstring(i) + L".bmp";
+		image->Save(fileName.c_str());
+	}
+	doc->Close();
 	delete doc;
 }
 ```
